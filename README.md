@@ -2,7 +2,7 @@
 💻 **Software Engineer** based in Syria-Duma, with a solid foundation in software engineering principles, systems analysis, and relational databases (SQL).
 
 - 🌱 Graduated with an Associate's degree in Software Engineering from the Intermediate Institute of Computer Science, Damascus University.
-- 🛠️ **Core Tech Stack:** C#, ASP.NET Core, Flutter, Dart, Firebase, SQL, Git/GitHub.
+- 🛠️ **Core Tech Stack:** Flutter, Dart, Firebase, SQL, Git/GitHub.
 - 💡 Experienced in backend architectures and building responsive, cross-platform mobile interfaces.
 - 📬 Reach out to me: **khaledherab@gmail.com**
 
